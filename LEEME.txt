@@ -1,0 +1,12 @@
+PORTAL DE PADRES CEDAT BACHILLERATO
+
+Este paquete conserva las pantallas y funciones del portal original.
+Se cambió el nombre institucional visible y se bloqueó la URL del API de la escuela original.
+
+NO PUBLICAR NI PROBAR CREDENCIALES HASTA QUE EXISTA UN API INDEPENDIENTE CONECTADO SOLO AL LIBRO CEDAT.
+
+Cuando se publique el API independiente para CEDAT, reemplazar el texto CONFIGURAR_URL_API_PADRES_CEDAT en padres_prueba.js por la URL real terminada en /exec.
+
+El enlace /exec del receptor ESP32/Portal Docente NO ES el API de Padres.
+
+Los tres archivos index.html, padres_prueba.css y padres_prueba.js deben quedar juntos en el mismo alojamiento.
