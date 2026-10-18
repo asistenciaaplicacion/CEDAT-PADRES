@@ -3314,7 +3314,7 @@ async function cambiarPasswordInicial(
     );
 
 
-    ocultarCambioPassword();
+    mostrarPortal();
 
     await cargarExpedienteCompleto(
       true
