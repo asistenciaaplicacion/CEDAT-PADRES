@@ -10,3 +10,5 @@ Cuando se publique el API independiente para CEDAT, reemplazar el texto CONFIGUR
 El enlace /exec del receptor ESP32/Portal Docente NO ES el API de Padres.
 
 Los tres archivos index.html, padres_prueba.css y padres_prueba.js deben quedar juntos en el mismo alojamiento.
+
+Actualización de publicación del Portal de Padres CEDAT - 18/10/2026
