@@ -23,7 +23,7 @@
 // ============================================================
 
 const API_PADRES =
-  'CONFIGURAR_URL_API_PADRES_CEDAT'
+  'https://script.google.com/macros/s/AKfycbyC5gKB_K0TUNuqJzNkW06g9TLXa12dRXOC1pKO76hDpV2m0F5DwSDt-SqWVTKn-4EIRQ/exec'
 
 const CLAVE_TOKEN_PADRES =
   'CEGRAC_TOKEN_PADRES_V3';
